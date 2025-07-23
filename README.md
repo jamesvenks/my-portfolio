@@ -1,3 +1,3 @@
 # My Portfolio
 
-Visit my website here at https://github.com/jamesvenks/my-portfolio.git
+Visit my website here at (https://jamesvenks.github.io/my-portfolio/)
